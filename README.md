@@ -5,9 +5,8 @@ Este repositório contém a página de **Política de Privacidade** e **Termos d
 ## 🔗 Acesse a política online
 Após ativar o GitHub Pages neste repositório, ela estará disponível em:
 ```
-https://seunome.github.io/termos-combinacao-numeros/
+https://zero1code.github.io/termos-combinacao-numeros/
 ```
-(Substitua `seunome` pelo seu nome de usuário do GitHub.)
 
 ## 📄 Conteúdo
 - Termos de uso do app
