@@ -10,7 +10,7 @@ https://zero1code.github.io/termos-combinacao-numeros/
 
 ## 📄 Conteúdo
 - Termos de uso do app
-- Informações sobre assinatura mensal (R$9,99)
+- Informações sobre assinatura mensal (Entre U$ 3,99 até U$S 4,99)
 - Política de privacidade
 - Dados coletados (somente dados técnicos)
 - Uso de anúncios com AdMob
